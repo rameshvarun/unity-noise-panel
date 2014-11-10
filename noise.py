@@ -26,7 +26,8 @@ ICON_PATH = os.path.join( os.path.dirname( os.path.realpath(__file__)) , "icon.p
 SOUNDS = {
 	"Morning Murmur" : "morningMurmur_mp3.mp3",
 	"Lunchtime Lounge" : "lunchtimeLounge_mp3.mp3",
-	"University Undertones" : "universityUndertones_mp3.mp3"
+	"University Undertones" : "universityUndertones_mp3.mp3",
+        "Rain" : "rain.mp3"
 }
 
 def startSound(widget, sound):
